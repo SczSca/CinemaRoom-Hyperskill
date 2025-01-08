@@ -1,0 +1,44 @@
+type: edu
+files:
+  - name: src/cinema/Main.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/cinema/Controller/CinemaController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Service/CinemaService.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Repository/CinemaRepository.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Entity/Movie.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Repository/LocalCinemaRepository.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Entity/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Response/SeatsResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/DTO/SeatDTO.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13375#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 07 Jan 2025 19:10:05 UTC"
+record: 1

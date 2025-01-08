@@ -1,0 +1,78 @@
+type: edu
+files:
+  - name: src/cinema/Main.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+  - name: src/cinema/Exception/GlobalExceptionHandler.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Request/ReturnRequest.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Exception/SeatException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Response/ReturnResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Repository/CinemaRepository.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/DTO/SeatDTO.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Service/CinemaService.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Entity/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Entity/PurchasedSeat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Controller/CinemaController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Response/SeatsResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Request/SeatRequest.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Repository/LocalCinemaRepository.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Response/PurchaseResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Entity/Movie.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Response/StatsResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/DTO/ReturnSeatDTO.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/Model/Request/StatRequest.java
+    visible: true
+    learner_created: true
+  - name: src/resources/cinema.properties
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/13378#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Wed, 08 Jan 2025 20:01:25 UTC"
+record: -1
